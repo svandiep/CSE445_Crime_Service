@@ -1,0 +1,10 @@
+C:\Users\Scott\source\repos\CrimeService\CrimeService\bin\CrimeService.dll.config
+C:\Users\Scott\source\repos\CrimeService\CrimeService\bin\CrimeService.dll
+C:\Users\Scott\source\repos\CrimeService\CrimeService\bin\CrimeService.pdb
+C:\Users\Scott\source\repos\CrimeService\CrimeService\bin\Newtonsoft.Json.dll
+C:\Users\Scott\source\repos\CrimeService\CrimeService\bin\Newtonsoft.Json.pdb
+C:\Users\Scott\source\repos\CrimeService\CrimeService\bin\Newtonsoft.Json.xml
+C:\Users\Scott\source\repos\CrimeService\CrimeService\obj\Debug\CrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\CrimeService\CrimeService\obj\Debug\CrimeService.csproj.CopyComplete
+C:\Users\Scott\source\repos\CrimeService\CrimeService\obj\Debug\CrimeService.dll
+C:\Users\Scott\source\repos\CrimeService\CrimeService\obj\Debug\CrimeService.pdb
