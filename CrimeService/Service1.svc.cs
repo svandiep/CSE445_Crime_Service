@@ -16,8 +16,8 @@ namespace CrimeService
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
-        public static string cdeKey = "eLKUFUmU0Fu2bn1mO5Pi5WRgfyDBtwcmPeRDbxvN";
-        public static string zipKey = "zI3WrcKJFctpdGn0LwKJ1oLeiUPqklQfDIuyP18VLdIJqrMQPPyrU1rEFwggYRG2";
+        public static string cdeKey = " ";
+        public static string zipKey = " ";
 
         public int crimeCity(string city, string state)
         {
